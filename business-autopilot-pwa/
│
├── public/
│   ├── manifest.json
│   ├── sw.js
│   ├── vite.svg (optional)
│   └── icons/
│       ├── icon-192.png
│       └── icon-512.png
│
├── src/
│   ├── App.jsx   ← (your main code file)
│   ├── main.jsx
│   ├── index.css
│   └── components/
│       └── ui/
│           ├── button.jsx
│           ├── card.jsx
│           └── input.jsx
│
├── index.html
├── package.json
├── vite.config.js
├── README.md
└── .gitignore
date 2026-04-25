@@ -1,0 +1,25 @@
+business-autopilot-pwa/
+│
+├── public/
+│   ├── manifest.json
+│   ├── sw.js
+│   ├── vite.svg (optional)
+│   └── icons/
+│       ├── icon-192.png
+│       └── icon-512.png
+│
+├── src/
+│   ├── App.jsx   ← (your main code file)
+│   ├── main.jsx
+│   ├── index.css
+│   └── components/
+│       └── ui/
+│           ├── button.jsx
+│           ├── card.jsx
+│           └── input.jsx
+│
+├── index.html
+├── package.json
+├── vite.config.js
+├── README.md
+└── .gitignore
